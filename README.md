@@ -3,7 +3,7 @@ Languages used in the project; <br>
 <ul>
   <li> HTML </li>
   <li> CSS </li>
-  <li> JAVASCRIPT </li>
+  <li> Javascript </li>
 </ul>
 
 
